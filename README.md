@@ -33,7 +33,7 @@ you have a recent version of [Node](https://nodejs.org/en/) and the
 [AppEngine SDK for Python](https://cloud.google.com/appengine/downloads#Google_App_Engine_SDK_for_Python)
 already installed.
 
-1. Run `npm install` (needed for the build process)
+1. Run `npm install` (needed for the build process).
 
 ## Build the auto-generated files
 Some files (contributors includes, some pages for updates, showcases, etc.) are
